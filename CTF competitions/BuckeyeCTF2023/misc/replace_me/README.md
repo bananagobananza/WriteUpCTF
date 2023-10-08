@@ -39,3 +39,5 @@ Perfect, we have a lot to look at here. There are all kind of good information t
 ![](battery_fail.png)
 
 Flag `bctf{gr33n_r0b0t_ph0N3}`
+
+For more info: "https://www.youtube.com/watch?v=6AnSX5fJL9U&ab_channel=Jadi"
