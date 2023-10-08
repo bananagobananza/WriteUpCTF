@@ -1,6 +1,5 @@
 # BuckeyeCTF 2023
 
-![sdfsdf](logo.png)
 <br/>Credits [buckeyectf](https://pwnoh.io/)
 
 ## crypto
