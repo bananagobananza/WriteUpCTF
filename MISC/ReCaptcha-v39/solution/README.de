@@ -1,3 +1,0 @@
-This problem involve calculating the area of the shape inside the captcha. 
-Solution: we count the number of pixels that is not white, or in this case different from #F0F0F0 (https://imagecolorfinder.com/ to check)
-and then divided that to the total pixels to calculate the answer
